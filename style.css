@@ -30,7 +30,7 @@ align-items: center;
 }
 
 header {
-margin: 0 auto 158 auto;
+margin-top: 50px;
 width: 1200px;
 height: 1168px;
 background-image: url('img/header_bg.png');
